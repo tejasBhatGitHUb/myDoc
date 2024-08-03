@@ -1,0 +1,186 @@
+[
+    {
+        "model": "specializations.Specialization",
+        "pk": 1,
+        "fields": {
+            "title": "Allergist/Immunologist",
+            "des": "Diagnoses and treats allergies, asthma, and immune system disorders."
+        }
+    },
+    {
+        "model": "specializations.Specialization",
+        "pk": 2,
+        "fields": {
+            "title": "Anesthesiologist",
+            "des": "Administers anesthesia and manages pain during and after surgical procedures."
+        }
+    },
+    {
+        "model": "specializations.Specialization",
+        "pk": 3,
+        "fields": {
+            "title": "Cardiologist",
+            "des": "Specializes in diagnosing and treating heart and blood vessel conditions."
+        }
+    },
+    {
+        "model": "specializations.Specialization",
+        "pk": 4,
+        "fields": {
+            "title": "Dermatologist",
+            "des": "Treats skin, hair, and nail disorders."
+        }
+    },
+    {
+        "model": "specializations.Specialization",
+        "pk": 5,
+        "fields": {
+            "title": "Endocrinologist",
+            "des": "Treats hormone-related disorders such as diabetes and thyroid issues."
+        }
+    },
+    {
+        "model": "specializations.Specialization",
+        "pk": 6,
+        "fields": {
+            "title": "Gastroenterologist",
+            "des": "Specializes in digestive system disorders."
+        }
+    },
+    {
+        "model": "specializations.Specialization",
+        "pk": 7,
+        "fields": {
+            "title": "Hematologist",
+            "des": "Treats blood disorders and diseases."
+        }
+    },
+    {
+        "model": "specializations.Specialization",
+        "pk": 8,
+        "fields": {
+            "title": "Infectious Disease Specialist",
+            "des": "Diagnoses and treats infectious diseases."
+        }
+    },
+    {
+        "model": "specializations.Specialization",
+        "pk": 9,
+        "fields": {
+            "title": "Internist",
+            "des": "Provides comprehensive care for adults, often serving as primary care physicians."
+        }
+    },
+    {
+        "model": "specializations.Specialization",
+        "pk": 10,
+        "fields": {
+            "title": "Nephrologist",
+            "des": "Specializes in kidney care and treating kidney diseases."
+        }
+    },
+    {
+        "model": "specializations.Specialization",
+        "pk": 11,
+        "fields": {
+            "title": "Neurologist",
+            "des": "Treats disorders of the nervous system, including the brain and spinal cord."
+        }
+    },
+    {
+        "model": "specializations.Specialization",
+        "pk": 12,
+        "fields": {
+            "title": "Obstetrician/Gynecologist (OB/GYN)",
+            "des": "Provides care related to pregnancy, childbirth, and female reproductive health."
+        }
+    },
+    {
+        "model": "specializations.Specialization",
+        "pk": 13,
+        "fields": {
+            "title": "Oncologist",
+            "des": "Specializes in the diagnosis and treatment of cancer."
+        }
+    },
+    {
+        "model": "specializations.Specialization",
+        "pk": 14,
+        "fields": {
+            "title": "Ophthalmologist",
+            "des": "Treats eye disorders and performs eye surgery."
+        }
+    },
+    {
+        "model": "specializations.Specialization",
+        "pk": 15,
+        "fields": {
+            "title": "Orthopedic Surgeon",
+            "des": "Treats musculoskeletal system issues, including bones, joints, and muscles."
+        }
+    },
+    {
+        "model": "specializations.Specialization",
+        "pk": 16,
+        "fields": {
+            "title": "Otolaryngologist (ENT)",
+            "des": "Treats conditions of the ear, nose, and throat."
+        }
+    },
+    {
+        "model": "specializations.Specialization",
+        "pk": 17,
+        "fields": {
+            "title": "Pediatrician",
+            "des": "Provides medical care for infants, children, and adolescents."
+        }
+    },
+    {
+        "model": "specializations.Specialization",
+        "pk": 18,
+        "fields": {
+            "title": "Psychiatrist",
+            "des": "Diagnoses and treats mental health disorders."
+        }
+    },
+    {
+        "model": "specializations.Specialization",
+        "pk": 19,
+        "fields": {
+            "title": "Pulmonologist",
+            "des": "Treats lung and respiratory system disorders."
+        }
+    },
+    {
+        "model": "specializations.Specialization",
+        "pk": 20,
+        "fields": {
+            "title": "Radiologist",
+            "des": "Uses medical imaging to diagnose and treat diseases."
+        }
+    },
+    {
+        "model": "specializations.Specialization",
+        "pk": 21,
+        "fields": {
+            "title": "Rheumatologist",
+            "des": "Treats autoimmune diseases and disorders of the joints and soft tissues."
+        }
+    },
+    {
+        "model": "specializations.Specialization",
+        "pk": 22,
+        "fields": {
+            "title": "Surgeon",
+            "des": "Performs surgical procedures to treat diseases, injuries, or deformities."
+        }
+    },
+    {
+        "model": "specializations.Specialization",
+        "pk": 23,
+        "fields": {
+            "title": "Urologist",
+            "des": "Treats conditions of the urinary tract and male reproductive system."
+        }
+    }
+]
