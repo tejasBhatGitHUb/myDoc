@@ -1,4 +1,5 @@
 import datetime
+from django.template.defaultfilters import slugify
 from django.db import models
 from django.urls import reverse
 from patients.models import Patient
@@ -41,7 +42,7 @@ class Doctor(models.Model):
     email=models.EmailField(max_length=100,verbose_name="Email", unique=True,)
     date_of_birth=models.DateField(verbose_name="Date of birth")
     registration_year=  models.DateField(verbose_name="Date of NMC registraion")
-    
+    slug=models.SlugField(max_length=240,editable=False)
     phone_number=models.CharField(verbose_name="Phone number",unique=True,
                                   validators=[RegexValidator(regex=r'(?:\+?91[-\s]?)?0?\d{10}',message="Enter the correct phone number")])
     password=models.CharField(verbose_name="Password")
@@ -50,11 +51,23 @@ class Doctor(models.Model):
     class Meta:
         verbose_name ="Doctor"
         verbose_name_plural ="Doctors"
-        ord
+        # ord=['name']
+        
+    def save(self, *args, **kwargs):
+        if not self.slug:
+            base_slug = slugify(self.name)
+            slug = base_slug
+            num = 1
+            while Doctor.objects.filter(slug=slug).exists():
+                slug = f"{base_slug}-{num}"
+                num += 1
+            self.slug = slug
+        super().save(*args, **kwargs)
+        
     def __str__(self):
         return f"{self.id}: {self.name}"
 
     def get_absolute_url(self):
-        return reverse("_detail", kwargs={"pk": self.pk})
+        return reverse("Doctor_detail", kwargs={"slug":self.slug,"pk": self.pk})
     
     

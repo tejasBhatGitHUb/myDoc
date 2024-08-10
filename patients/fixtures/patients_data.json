@@ -5,7 +5,8 @@
         "fields": {
             "name": "Aarav Sharma",
             "email": "aarav.sharma@example.com",
-            "password": "password123"
+            "password": "password123",
+            "slug": "aarav-sharma"
         }
     },
     {
@@ -14,7 +15,8 @@
         "fields": {
             "name": "Vivaan Gupta",
             "email": "vivaan.gupta@example.com",
-            "password": "password123"
+            "password": "password123",
+            "slug": "vivaan-gupta"
         }
     },
     {
@@ -23,7 +25,8 @@
         "fields": {
             "name": "Aditya Kumar",
             "email": "aditya.kumar@example.com",
-            "password": "password123"
+            "password": "password123",
+            "slug": "aditya-kumar"
         }
     },
     {
@@ -32,7 +35,8 @@
         "fields": {
             "name": "Aarush Patel",
             "email": "aarush.patel@example.com",
-            "password": "password123"
+            "password": "password123",
+            "slug": "aarush-patel"
         }
     },
     {
@@ -41,7 +45,8 @@
         "fields": {
             "name": "Ishaan Mehta",
             "email": "ishaan.mehta@example.com",
-            "password": "password123"
+            "password": "password123",
+            "slug": "ishaan-mehta"
         }
     },
     {
@@ -50,7 +55,8 @@
         "fields": {
             "name": "Anaya Singh",
             "email": "anaya.singh@example.com",
-            "password": "password123"
+            "password": "password123",
+            "slug": "anaya-singh"
         }
     },
     {
@@ -59,7 +65,8 @@
         "fields": {
             "name": "Aahana Nair",
             "email": "aahana.nair@example.com",
-            "password": "password123"
+            "password": "password123",
+            "slug": "aahana-nair"
         }
     },
     {
@@ -68,7 +75,8 @@
         "fields": {
             "name": "Diya Reddy",
             "email": "diya.reddy@example.com",
-            "password": "password123"
+            "password": "password123",
+            "slug": "diya-reddy"
         }
     },
     {
@@ -77,7 +85,8 @@
         "fields": {
             "name": "Anika Rao",
             "email": "anika.rao@example.com",
-            "password": "password123"
+            "password": "password123",
+            "slug": "anika-rao"
         }
     },
     {
@@ -86,7 +95,8 @@
         "fields": {
             "name": "Arjun Chaudhary",
             "email": "arjun.chaudhary@example.com",
-            "password": "password123"
+            "password": "password123",
+            "slug": "arjun-chaudhary"
         }
     },
     {
@@ -95,7 +105,8 @@
         "fields": {
             "name": "Aryan Das",
             "email": "aryan.das@example.com",
-            "password": "password123"
+            "password": "password123",
+            "slug": "aryan-das"
         }
     },
     {
@@ -104,7 +115,8 @@
         "fields": {
             "name": "Anvi Bhatt",
             "email": "anvi.bhatt@example.com",
-            "password": "password123"
+            "password": "password123",
+            "slug": "anvi-bhatt"
         }
     },
     {
@@ -113,7 +125,8 @@
         "fields": {
             "name": "Avni Sharma",
             "email": "avni.sharma@example.com",
-            "password": "password123"
+            "password": "password123",
+            "slug": "avni-sharma"
         }
     },
     {
@@ -122,7 +135,8 @@
         "fields": {
             "name": "Advik Kapoor",
             "email": "advik.kapoor@example.com",
-            "password": "password123"
+            "password": "password123",
+            "slug": "advik-kapoor"
         }
     },
     {
@@ -131,7 +145,8 @@
         "fields": {
             "name": "Arnav Khanna",
             "email": "arnav.khanna@example.com",
-            "password": "password123"
+            "password": "password123",
+            "slug": "arnav-khanna"
         }
     },
     {
@@ -140,7 +155,8 @@
         "fields": {
             "name": "Arya Prasad",
             "email": "arya.prasad@example.com",
-            "password": "password123"
+            "password": "password123",
+            "slug": "arya-prasad"
         }
     },
     {
@@ -149,7 +165,8 @@
         "fields": {
             "name": "Ayush Raj",
             "email": "ayush.raj@example.com",
-            "password": "password123"
+            "password": "password123",
+            "slug": "ayush-raj"
         }
     },
     {
@@ -158,295 +175,328 @@
         "fields": {
             "name": "Daksh Patel",
             "email": "daksh.patel@example.com",
-            "password": "password123"
+            "password": "password123",
+            "slug": "daksh-patel"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 19,
         "fields": {
-            "name": "Dev Sharma",
-            "email": "dev.sharma@example.com",
-            "password": "password123"
+            "name": "Dhruv Singh",
+            "email": "dhruv.singh@example.com",
+            "password": "password123",
+            "slug": "dhruv-singh"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 20,
         "fields": {
-            "name": "Darsh Gupta",
-            "email": "darsh.gupta@example.com",
-            "password": "password123"
+            "name": "Divya Sharma",
+            "email": "divya.sharma@example.com",
+            "password": "password123",
+            "slug": "divya-sharma"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 21,
         "fields": {
-            "name": "Eva Nair",
-            "email": "eva.nair@example.com",
-            "password": "password123"
+            "name": "Eshaan Gupta",
+            "email": "eshaan.gupta@example.com",
+            "password": "password123",
+            "slug": "eshaan-gupta"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 22,
         "fields": {
-            "name": "Gia Singh",
-            "email": "gia.singh@example.com",
-            "password": "password123"
+            "name": "Ishita Verma",
+            "email": "ishita.verma@example.com",
+            "password": "password123",
+            "slug": "ishita-verma"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 23,
         "fields": {
-            "name": "Inaya Reddy",
-            "email": "inaya.reddy@example.com",
-            "password": "password123"
+            "name": "Jiya Mishra",
+            "email": "jiya.mishra@example.com",
+            "password": "password123",
+            "slug": "jiya-mishra"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 24,
         "fields": {
-            "name": "Ira Rao",
-            "email": "ira.rao@example.com",
-            "password": "password123"
+            "name": "Kabir Jha",
+            "email": "kabir.jha@example.com",
+            "password": "password123",
+            "slug": "kabir-jha"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 25,
         "fields": {
-            "name": "Ishika Chaudhary",
-            "email": "ishika.chaudhary@example.com",
-            "password": "password123"
+            "name": "Kavya Sharma",
+            "email": "kavya.sharma@example.com",
+            "password": "password123",
+            "slug": "kavya-sharma"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 26,
         "fields": {
-            "name": "Kabir Das",
-            "email": "kabir.das@example.com",
-            "password": "password123"
+            "name": "Kiaan Singh",
+            "email": "kiaan.singh@example.com",
+            "password": "password123",
+            "slug": "kiaan-singh"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 27,
         "fields": {
-            "name": "Kian Bhatt",
-            "email": "kian.bhatt@example.com",
-            "password": "password123"
+            "name": "Krish Patel",
+            "email": "krish.patel@example.com",
+            "password": "password123",
+            "slug": "krish-patel"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 28,
         "fields": {
-            "name": "Krishna Sharma",
-            "email": "krishna.sharma@example.com",
-            "password": "password123"
+            "name": "Laksh Gupta",
+            "email": "laksh.gupta@example.com",
+            "password": "password123",
+            "slug": "laksh-gupta"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 29,
         "fields": {
-            "name": "Laksh Kapoor",
-            "email": "laksh.kapoor@example.com",
-            "password": "password123"
+            "name": "Lavanya Reddy",
+            "email": "lavanya.reddy@example.com",
+            "password": "password123",
+            "slug": "lavanya-reddy"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 30,
         "fields": {
-            "name": "Manan Khanna",
-            "email": "manan.khanna@example.com",
-            "password": "password123"
+            "name": "Maira Rao",
+            "email": "maira.rao@example.com",
+            "password": "password123",
+            "slug": "maira-rao"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 31,
         "fields": {
-            "name": "Maya Prasad",
-            "email": "maya.prasad@example.com",
-            "password": "password123"
+            "name": "Manya Chaudhary",
+            "email": "manya.chaudhary@example.com",
+            "password": "password123",
+            "slug": "manya-chaudhary"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 32,
         "fields": {
-            "name": "Misha Raj",
-            "email": "misha.raj@example.com",
-            "password": "password123"
+            "name": "Meera Das",
+            "email": "meera.das@example.com",
+            "password": "password123",
+            "slug": "meera-das"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 33,
         "fields": {
-            "name": "Naina Patel",
-            "email": "naina.patel@example.com",
-            "password": "password123"
+            "name": "Mohit Bhatt",
+            "email": "mohit.bhatt@example.com",
+            "password": "password123",
+            "slug": "mohit-bhatt"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 34,
         "fields": {
-            "name": "Neil Sharma",
-            "email": "neil.sharma@example.com",
-            "password": "password123"
+            "name": "Myra Sharma",
+            "email": "myra.sharma@example.com",
+            "password": "password123",
+            "slug": "myra-sharma"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 35,
         "fields": {
-            "name": "Nina Gupta",
-            "email": "nina.gupta@example.com",
-            "password": "password123"
+            "name": "Naina Kapoor",
+            "email": "naina.kapoor@example.com",
+            "password": "password123",
+            "slug": "naina-kapoor"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 36,
         "fields": {
-            "name": "Nysa Nair",
-            "email": "nysa.nair@example.com",
-            "password": "password123"
+            "name": "Nikhil Khanna",
+            "email": "nikhil.khanna@example.com",
+            "password": "password123",
+            "slug": "nikhil-khanna"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 37,
         "fields": {
-            "name": "Ojas Singh",
-            "email": "ojas.singh@example.com",
-            "password": "password123"
+            "name": "Nirvi Prasad",
+            "email": "nirvi.prasad@example.com",
+            "password": "password123",
+            "slug": "nirvi-prasad"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 38,
         "fields": {
-            "name": "Pari Reddy",
-            "email": "pari.reddy@example.com",
-            "password": "password123"
+            "name": "Nisha Raj",
+            "email": "nisha.raj@example.com",
+            "password": "password123",
+            "slug": "nisha-raj"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 39,
         "fields": {
-            "name": "Pranav Rao",
-            "email": "pranav.rao@example.com",
-            "password": "password123"
+            "name": "Om Patel",
+            "email": "om.patel@example.com",
+            "password": "password123",
+            "slug": "om-patel"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 40,
         "fields": {
-            "name": "Riya Chaudhary",
-            "email": "riya.chaudhary@example.com",
-            "password": "password123"
+            "name": "Ojas Sharma",
+            "email": "ojas.sharma@example.com",
+            "password": "password123",
+            "slug": "ojas-sharma"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 41,
         "fields": {
-            "name": "Saanvi Das",
-            "email": "saanvi.das@example.com",
-            "password": "password123"
+            "name": "Parth Singh",
+            "email": "parth.singh@example.com",
+            "password": "password123",
+            "slug": "parth-singh"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 42,
         "fields": {
-            "name": "Samar Bhatt",
-            "email": "samar.bhatt@example.com",
-            "password": "password123"
+            "name": "Prisha Sharma",
+            "email": "prisha.sharma@example.com",
+            "password": "password123",
+            "slug": "prisha-sharma"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 43,
         "fields": {
-            "name": "Sara Sharma",
-            "email": "sara.sharma@example.com",
-            "password": "password123"
+            "name": "Rahul Gupta",
+            "email": "rahul.gupta@example.com",
+            "password": "password123",
+            "slug": "rahul-gupta"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 44,
         "fields": {
-            "name": "Siya Kapoor",
-            "email": "siya.kapoor@example.com",
-            "password": "password123"
+            "name": "Rohan Verma",
+            "email": "rohan.verma@example.com",
+            "password": "password123",
+            "slug": "rohan-verma"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 45,
         "fields": {
-            "name": "Tara Khanna",
-            "email": "tara.khanna@example.com",
-            "password": "password123"
+            "name": "Ritika Mishra",
+            "email": "ritika.mishra@example.com",
+            "password": "password123",
+            "slug": "ritika-mishra"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 46,
         "fields": {
-            "name": "Veer Prasad",
-            "email": "veer.prasad@example.com",
-            "password": "password123"
+            "name": "Riya Jha",
+            "email": "riya.jha@example.com",
+            "password": "password123",
+            "slug": "riya-jha"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 47,
         "fields": {
-            "name": "Vihaan Raj",
-            "email": "vihaan.raj@example.com",
-            "password": "password123"
+            "name": "Saanvi Sharma",
+            "email": "saanvi.sharma@example.com",
+            "password": "password123",
+            "slug": "saanvi-sharma"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 48,
         "fields": {
-            "name": "Vir Patel",
-            "email": "vir.patel@example.com",
-            "password": "password123"
+            "name": "Sarthak Gupta",
+            "email": "sarthak.gupta@example.com",
+            "password": "password123",
+            "slug": "sarthak-gupta"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 49,
         "fields": {
-            "name": "Vivaan Sharma",
-            "email": "vivaan.sharma@example.com",
-            "password": "password123"
+            "name": "Shanaya Singh",
+            "email": "shanaya.singh@example.com",
+            "password": "password123",
+            "slug": "shanaya-singh"
         }
     },
     {
         "model": "patients.Patient",
         "pk": 50,
         "fields": {
-            "name": "Yash Gupta",
-            "email": "yash.gupta@example.com",
-            "password": "password123"
+            "name": "Shivani Patel",
+            "email": "shivani.patel@example.com",
+            "password": "password123",
+            "slug": "shivani-patel"
         }
     }
 ]

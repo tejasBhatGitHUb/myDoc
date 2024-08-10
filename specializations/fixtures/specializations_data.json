@@ -4,7 +4,8 @@
         "pk": 1,
         "fields": {
             "title": "Allergist/Immunologist",
-            "des": "Diagnoses and treats allergies, asthma, and immune system disorders."
+            "des": "Diagnoses and treats allergies, asthma, and immune system disorders.",
+            "slug": "allergist-immunologist"
         }
     },
     {
@@ -12,7 +13,8 @@
         "pk": 2,
         "fields": {
             "title": "Anesthesiologist",
-            "des": "Administers anesthesia and manages pain during and after surgical procedures."
+            "des": "Administers anesthesia and manages pain during and after surgical procedures.",
+            "slug": "anesthesiologist"
         }
     },
     {
@@ -20,7 +22,8 @@
         "pk": 3,
         "fields": {
             "title": "Cardiologist",
-            "des": "Specializes in diagnosing and treating heart and blood vessel conditions."
+            "des": "Specializes in diagnosing and treating heart and blood vessel conditions.",
+            "slug": "cardiologist"
         }
     },
     {
@@ -28,7 +31,8 @@
         "pk": 4,
         "fields": {
             "title": "Dermatologist",
-            "des": "Treats skin, hair, and nail disorders."
+            "des": "Treats skin, hair, and nail disorders.",
+            "slug": "dermatologist"
         }
     },
     {
@@ -36,7 +40,8 @@
         "pk": 5,
         "fields": {
             "title": "Endocrinologist",
-            "des": "Treats hormone-related disorders such as diabetes and thyroid issues."
+            "des": "Treats hormone-related disorders such as diabetes and thyroid issues.",
+            "slug": "endocrinologist"
         }
     },
     {
@@ -44,7 +49,8 @@
         "pk": 6,
         "fields": {
             "title": "Gastroenterologist",
-            "des": "Specializes in digestive system disorders."
+            "des": "Specializes in digestive system disorders.",
+            "slug": "gastroenterologist"
         }
     },
     {
@@ -52,7 +58,8 @@
         "pk": 7,
         "fields": {
             "title": "Hematologist",
-            "des": "Treats blood disorders and diseases."
+            "des": "Treats blood disorders and diseases.",
+            "slug": "hematologist"
         }
     },
     {
@@ -60,7 +67,8 @@
         "pk": 8,
         "fields": {
             "title": "Infectious Disease Specialist",
-            "des": "Diagnoses and treats infectious diseases."
+            "des": "Diagnoses and treats infectious diseases.",
+            "slug": "infectious-disease-specialist"
         }
     },
     {
@@ -68,7 +76,8 @@
         "pk": 9,
         "fields": {
             "title": "Internist",
-            "des": "Provides comprehensive care for adults, often serving as primary care physicians."
+            "des": "Provides comprehensive care for adults, often serving as primary care physicians.",
+            "slug": "internist"
         }
     },
     {
@@ -76,7 +85,8 @@
         "pk": 10,
         "fields": {
             "title": "Nephrologist",
-            "des": "Specializes in kidney care and treating kidney diseases."
+            "des": "Specializes in kidney care and treating kidney diseases.",
+            "slug": "nephrologist"
         }
     },
     {
@@ -84,7 +94,8 @@
         "pk": 11,
         "fields": {
             "title": "Neurologist",
-            "des": "Treats disorders of the nervous system, including the brain and spinal cord."
+            "des": "Treats disorders of the nervous system, including the brain and spinal cord.",
+            "slug": "neurologist"
         }
     },
     {
@@ -92,7 +103,8 @@
         "pk": 12,
         "fields": {
             "title": "Obstetrician/Gynecologist (OB/GYN)",
-            "des": "Provides care related to pregnancy, childbirth, and female reproductive health."
+            "des": "Provides care related to pregnancy, childbirth, and female reproductive health.",
+            "slug": "obstetrician-gynecologist-ob-gyn"
         }
     },
     {
@@ -100,7 +112,8 @@
         "pk": 13,
         "fields": {
             "title": "Oncologist",
-            "des": "Specializes in the diagnosis and treatment of cancer."
+            "des": "Specializes in the diagnosis and treatment of cancer.",
+            "slug": "oncologist"
         }
     },
     {
@@ -108,7 +121,8 @@
         "pk": 14,
         "fields": {
             "title": "Ophthalmologist",
-            "des": "Treats eye disorders and performs eye surgery."
+            "des": "Treats eye disorders and performs eye surgery.",
+            "slug": "ophthalmologist"
         }
     },
     {
@@ -116,7 +130,8 @@
         "pk": 15,
         "fields": {
             "title": "Orthopedic Surgeon",
-            "des": "Treats musculoskeletal system issues, including bones, joints, and muscles."
+            "des": "Treats musculoskeletal system issues, including bones, joints, and muscles.",
+            "slug": "orthopedic-surgeon"
         }
     },
     {
@@ -124,7 +139,8 @@
         "pk": 16,
         "fields": {
             "title": "Otolaryngologist (ENT)",
-            "des": "Treats conditions of the ear, nose, and throat."
+            "des": "Treats conditions of the ear, nose, and throat.",
+            "slug": "otolaryngologist-ent"
         }
     },
     {
@@ -132,7 +148,8 @@
         "pk": 17,
         "fields": {
             "title": "Pediatrician",
-            "des": "Provides medical care for infants, children, and adolescents."
+            "des": "Provides medical care for infants, children, and adolescents.",
+            "slug": "pediatrician"
         }
     },
     {
@@ -140,7 +157,8 @@
         "pk": 18,
         "fields": {
             "title": "Psychiatrist",
-            "des": "Diagnoses and treats mental health disorders."
+            "des": "Diagnoses and treats mental health disorders.",
+            "slug": "psychiatrist"
         }
     },
     {
@@ -148,7 +166,8 @@
         "pk": 19,
         "fields": {
             "title": "Pulmonologist",
-            "des": "Treats lung and respiratory system disorders."
+            "des": "Treats lung and respiratory system disorders.",
+            "slug": "pulmonologist"
         }
     },
     {
@@ -156,7 +175,8 @@
         "pk": 20,
         "fields": {
             "title": "Radiologist",
-            "des": "Uses medical imaging to diagnose and treat diseases."
+            "des": "Uses medical imaging to diagnose and treat diseases.",
+            "slug": "radiologist"
         }
     },
     {
@@ -164,7 +184,8 @@
         "pk": 21,
         "fields": {
             "title": "Rheumatologist",
-            "des": "Treats autoimmune diseases and disorders of the joints and soft tissues."
+            "des": "Treats autoimmune diseases and disorders of the joints and soft tissues.",
+            "slug": "rheumatologist"
         }
     },
     {
@@ -172,7 +193,8 @@
         "pk": 22,
         "fields": {
             "title": "Surgeon",
-            "des": "Performs surgical procedures to treat diseases, injuries, or deformities."
+            "des": "Performs surgical procedures to treat diseases, injuries, or deformities.",
+            "slug": "surgeon"
         }
     },
     {
@@ -180,7 +202,8 @@
         "pk": 23,
         "fields": {
             "title": "Urologist",
-            "des": "Treats conditions of the urinary tract and male reproductive system."
+            "des": "Treats conditions of the urinary tract and male reproductive system.",
+            "slug": "urologist"
         }
     }
 ]
